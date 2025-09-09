@@ -85,10 +85,11 @@ Export JSON → XMI
 
 ---
 📦 Installation
+```bash
 git clone https://github.com/cadetsikandar/Hand_Sketched_UML_Recognition_Conversion.git
 cd Hand_Sketched_UML_Recognition_Conversion
 pip install -r requirements.txt
-
+````
 ---
 
 🙌 Credits
