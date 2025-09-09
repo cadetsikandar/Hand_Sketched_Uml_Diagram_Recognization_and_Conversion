@@ -39,7 +39,6 @@ This project automates the process:
 ---
 
 ## 📂 Repository Structure
-```bash
 Hand_Sketched_UML_Recognition_Conversion/
 ├── data/              # sample UML sketches
 ├── models/            # trained weights
